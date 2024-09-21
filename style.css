@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heading-one{
+    background-color: yellowgreen; 
+}
+.paragraph-one{
+    background-color: gray;
+    color: blue;
+}
+span{
+    background-color: blue;
+}
+/* ID Selector */
+#first-image{
+    width: 250px;
+}
+#ONE{
+    color: aliceblue;
+    background-color: black;
+}
+.TWO{
+    color: aqua;
+}
+.EIGHT{
+    color: yellowgreen;
+    background-color: aqua;
+}
+.THREE{
+    background-color: aquamarine;
+}
+.FOUR{
+    background-color: bisque;
+}
+.FIVE{
+    background-color: yellow;
+}
+.SIX{
+    background-color: violet;
+}
+.SEVEN{
+    background-color: blue;
+    color: bisque;
+}
+.lorem{
+    background-color: yellow;
+}
+.lorem span{
+    color: bisque;
+}
+.lorem .pass{
+    background-color: black;
+    font-size: 40px;
+}
+#Home-section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: yellowgreen;
+    text-align: center;
+}
+#About-section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rebeccapurple;
+    text-align: end;
+}
+#Contact-section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: khaki;
+    text-align: left;
+}

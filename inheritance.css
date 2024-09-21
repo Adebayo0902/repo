@@ -1,0 +1,31 @@
+.first-div{
+    color: yellowgreen;
+    border: 2px solid red;
+    width: 20%;
+}
+p{
+    background-color: red;
+}
+p{
+    background-color: blue;
+}
+.bola p{
+    background-color: wheat;
+}
+.bola #dapo p{
+    background-color: yellowgreen;
+}
+#bola p{
+    background-color: blue;
+}
+#bola .dapo p{
+    background-color: yellow;
+}
+#container h1 + img{
+    width: 20%;
+}
+span[class]{
+    color: red;
+    font: optional 40px;
+    border: 4px solid black;
+}
